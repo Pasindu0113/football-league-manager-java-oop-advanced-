@@ -1,0 +1,48 @@
+#Home{
+    -fx-background-image: url('home.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 700 600;
+    -fx-background-position: center center;
+}
+#Clubs{
+    -fx-background-image: url('clubs.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1800 800;
+    -fx-background-position: center center;
+}
+#Matches{
+    -fx-background-image: url('matches.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1100 800;
+    -fx-background-position: center center;
+}
+
+Button{
+    -fx-background-color: #efe9e9;
+    -fx-border-color: red;
+}
+Button:hover{
+    -fx-background-color: #ffa8a8;
+}
+
+#btnStyle{
+    -fx-background-color: #efe9e9;
+    -fx-border-color: #00ff00;
+}
+#btnStyle:hover{
+    -fx-background-color: #98ff83;
+}
+
+#btnStyle1{
+    -fx-background-color: #efe9e9;
+    -fx-border-color: white;
+}
+#btnStyle1:hover{
+    -fx-background-color: #8fac8f;
+}
+#lbStyle{
+    -fx-text-fill: #000000;
+    -fx-font-weight: bolder;
+    -fx-background-color: #86d23e;
+}
+
